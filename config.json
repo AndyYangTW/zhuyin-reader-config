@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "minimum_version": "1.0.0",
+    "latest_version": "1.0.0",
+    "force_update": false,
+    "app_store_url": "",
+    "force_message": "請更新到最新版本，才能繼續使用注音小讀者。",
+    "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。"
+  },
+  "signature": "vZT7Qk3R9vI1uBw6aZA4pkWnYpS3DQ+OBsR/2JBn6bWgLi+RykFm/t4/bVZj3Nky0vhogKB5+FuCUEGKA8ikCA=="
+}
