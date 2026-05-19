@@ -1,11 +1,11 @@
 {
   "payload": {
     "minimum_version": "1.0.0",
-    "latest_version": "1.2.0",
+    "latest_version": "1.0.0",
     "force_update": false,
     "app_store_url": "https://github.com/AndyYangTW/zhuyin-reader-config",
     "force_message": "請更新到最新版本，才能繼續使用注音小讀者。",
     "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。"
   },
-  "signature": "8IqgDfjJ4IgwWcXiabO2E1NSf/XwrJg0jpbiEFzVDvNdggJjF3uz8hA/GI54ahF3rjM23j2c6eVkTZfnnxPyAg=="
+  "signature": "ZTTrh2ShfhJNnVaQwPeMESzlkuJMbeNGM0Dq47KGfVTT7Tm/YfBOBzaFAYoBsE9HNF81iRKLlfus+UMPJJ5/Ag=="
 }
