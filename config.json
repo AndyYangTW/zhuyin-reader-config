@@ -1,11 +1,11 @@
 {
   "payload": {
     "minimum_version": "1.1.1",
-    "latest_version": "1.1.1",
+    "latest_version": "1.1.2",
     "force_update": true,
     "app_store_url": "https://apps.apple.com/us/app/%E6%B3%A8%E9%9F%B3%E5%B0%8F%E8%AE%80%E8%80%85/id6768879404",
     "force_message": "請更新到最新版本，才能繼續使用注音小讀者。",
     "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。"
   },
-  "signature": "WhqUwUoZOAB8SlkRwWvXblgqxKOs4e3ljV50wRIhGHGmB7jMQ8zZrZM4O1BYHA8a3SnOuESalBHbJecJMX+dAQ=="
+  "signature": "jf/nzs7vRHbCASo6IqPUW1g0ykZsCkBF2tIS/jMeBfbdZVIGUrU/TZDSGEVXUHzipW12YCAdMxHmAQEA0UuNCA=="
 }
