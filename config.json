@@ -5,7 +5,22 @@
     "force_update": false,
     "app_store_url": "https://apps.apple.com/us/app/%E6%B3%A8%E9%9F%B3%E5%B0%8F%E8%AE%80%E8%80%85/id6768879404",
     "force_message": "請更新到最新版本，才能繼續使用注音小讀者。",
-    "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。"
+    "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。",
+    "arena_enabled": true,
+    "reader_translation_enabled": true,
+    "enabled_challenge_rooms": [
+      "readingMemory",
+      "zhuyinTreasure",
+      "pickReading"
+    ],
+    "test_build_expires_at": "2026-07-15T00:00:00+08:00",
+    "android_review_access": {
+      "enabled": true,
+      "version_name": "1.7.0",
+      "version_code": "9",
+      "state": "in_review",
+      "expires_at": "2026-07-10T23:59:59+08:00"
+    }
   },
-  "signature": "FSxgpj+3wU+rx4Hj6qgxs4XMxlE5E9aQQjHcJbNKTEzzqOuC00KXj6m2VgkAnAgaGydVoeERXGiPMFlui5jfDQ=="
+  "signature": "WBEdU5WciPD7qhqqzNj8jBYGM+gjscXJ5FSBpyh2osVdnYaRByWn5TLVpFQwwq1zojYiZ9iQaitA/yNXxjREDQ=="
 }
