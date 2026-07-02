@@ -9,9 +9,7 @@
     "arena_enabled": true,
     "reader_translation_enabled": true,
     "enabled_challenge_rooms": [
-      "readingMemory",
-      "zhuyinTreasure",
-      "pickReading"
+      "all"
     ],
     "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
@@ -22,5 +20,5 @@
       "expires_at": "2026-07-10T23:59:59+08:00"
     }
   },
-  "signature": "WBEdU5WciPD7qhqqzNj8jBYGM+gjscXJ5FSBpyh2osVdnYaRByWn5TLVpFQwwq1zojYiZ9iQaitA/yNXxjREDQ=="
+  "signature": "wLyHZvPPcGVETdJl1c3nWqaai7pKsWqWz+8LkAblj6prREIpG+ggRu4Uz39NMWK11P71ZDGBbAFopJBT87/jAw=="
 }
