@@ -8,9 +8,6 @@
     "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。",
     "arena_enabled": true,
     "reader_translation_enabled": true,
-    "enabled_challenge_rooms": [
-      "all"
-    ],
     "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
       "enabled": true,
@@ -20,5 +17,5 @@
       "expires_at": "2026-07-10T23:59:59+08:00"
     }
   },
-  "signature": "wLyHZvPPcGVETdJl1c3nWqaai7pKsWqWz+8LkAblj6prREIpG+ggRu4Uz39NMWK11P71ZDGBbAFopJBT87/jAw=="
+  "signature": "6q+3yn/PWx0XQIrdsKBBZmBY/jTLhg4MZKM6twaGbIvgtmpD+lL1z7mubgctaf04Gjkn0uTyWz0pz45GFjG2Ag=="
 }
