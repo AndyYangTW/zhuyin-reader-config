@@ -10,12 +10,12 @@
     "reader_translation_enabled": true,
     "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "1.7.0",
       "version_code": "9",
-      "state": "in_review",
+      "state": "released",
       "expires_at": "2026-07-10T23:59:59+08:00"
     }
   },
-  "signature": "6q+3yn/PWx0XQIrdsKBBZmBY/jTLhg4MZKM6twaGbIvgtmpD+lL1z7mubgctaf04Gjkn0uTyWz0pz45GFjG2Ag=="
+  "signature": "7R6HOVDFqAG4hdP5kmMA5Qb+vqv9wNR5Mg4ifBo2D/j6klNoP083/M+HMN2NSix0m0XT/cFxvQzLSZkuyGE/Dw=="
 }
