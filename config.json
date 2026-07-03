@@ -1,7 +1,7 @@
 {
   "payload": {
-    "minimum_version": "1.1.1",
-    "latest_version": "1.1.2",
+    "minimum_version": "1.7.0",
+    "latest_version": "1.7.0",
     "force_update": false,
     "app_store_url": "https://apps.apple.com/us/app/%E6%B3%A8%E9%9F%B3%E5%B0%8F%E8%AE%80%E8%80%85/id6768879404",
     "force_message": "請更新到最新版本，才能繼續使用注音小讀者。",
@@ -17,5 +17,5 @@
       "expires_at": "2026-07-10T23:59:59+08:00"
     }
   },
-  "signature": "7R6HOVDFqAG4hdP5kmMA5Qb+vqv9wNR5Mg4ifBo2D/j6klNoP083/M+HMN2NSix0m0XT/cFxvQzLSZkuyGE/Dw=="
+  "signature": "Xqn8EQ0IE8oK6pdXTHTJjf9E6wGsFVyH+DRLDu89CVkpbSJT6lbIVWm8LDeFlLL1FRwJ2HJsLHvTs9u4srQGAg=="
 }
