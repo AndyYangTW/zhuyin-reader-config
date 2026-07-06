@@ -15,7 +15,10 @@
       "version_code": "9",
       "state": "released",
       "expires_at": "2026-07-10T23:59:59+08:00"
-    }
+    },
+    "enabled_challenge_rooms": [
+      "all"
+    ]
   },
-  "signature": "Xqn8EQ0IE8oK6pdXTHTJjf9E6wGsFVyH+DRLDu89CVkpbSJT6lbIVWm8LDeFlLL1FRwJ2HJsLHvTs9u4srQGAg=="
+  "signature": "o6OMaSubJOb7E0itz+Gzn9xFFHoTb0/TakVsNvhPT1qFn6FMUZAEb6AVwi5CaDvRCQj146bT68bB8M7UVZTYDA=="
 }
