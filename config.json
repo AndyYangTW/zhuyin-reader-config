@@ -10,15 +10,15 @@
     "reader_translation_enabled": true,
     "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "1.8.0",
       "version_code": "1080001",
-      "state": "in_review",
+      "state": "released",
       "expires_at": "2026-07-10T23:59:59+08:00"
     },
     "enabled_challenge_rooms": [
       "all"
     ]
   },
-  "signature": "Vt1ji3xk4LYRD44FJa/MoHjqenkhjz1OzwOlIeWycVGg6GCh+2pMF3VzmVyVzWKbr/D/b7k+MpQ1+HtJB3w7Cw=="
+  "signature": "XsShCFUs0MPGtdWw3cBIEP5VPawxU2sorvyUiCZsH0cRMZEJLWQeO+v64S9ymrS/cKuuZ2Csa11vgYr/bQPMAw=="
 }
