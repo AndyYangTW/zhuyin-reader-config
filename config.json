@@ -9,16 +9,17 @@
     "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。",
     "arena_enabled": true,
     "reader_translation_enabled": true,
+    "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
-      "enabled": false,
-      "version_name": "1.8.0",
-      "version_code": "1080001",
-      "state": "released",
-      "expires_at": "2026-07-10T23:59:59+08:00"
+      "enabled": true,
+      "version_name": "1.9.0",
+      "version_code": "1090002",
+      "state": "in_review",
+      "expires_at": "2026-07-23T09:11:02+08:00"
     },
     "enabled_challenge_rooms": [
       "all"
     ]
   },
-  "signature": "so4brcSAe0QiVKO1ZT9UtfUVD6Yd7qf+k/OrNpzKlTt/l9EUz7sLSnxhRk4Gqj6AzmuZB4z6hha8NAYCcqD+Dw=="
+  "signature": "CNnWL7GZnCNJURkNM9X7M7EWKkE0cPHxaHZF99FuPpALs/H1uuG6AjYbcLOnfVT78ihsfsoQ+cEvc66uC2YFDw=="
 }
