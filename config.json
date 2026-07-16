@@ -9,7 +9,6 @@
     "optional_message": "新版本已推出，建議更新以取得更穩定的注音閱讀體驗。",
     "arena_enabled": true,
     "reader_translation_enabled": true,
-    "test_build_expires_at": "2026-07-15T00:00:00+08:00",
     "android_review_access": {
       "enabled": true,
       "version_name": "1.9.0",
@@ -21,5 +20,5 @@
       "all"
     ]
   },
-  "signature": "CNnWL7GZnCNJURkNM9X7M7EWKkE0cPHxaHZF99FuPpALs/H1uuG6AjYbcLOnfVT78ihsfsoQ+cEvc66uC2YFDw=="
+  "signature": "IY0/8cr3XwVintjH2EvIe+EGgNymzMdxUr9+y8O4/bywFEG4KFYb2amO19m7+sR1lIOjcwUlFLR1O97eIJHHAQ=="
 }
