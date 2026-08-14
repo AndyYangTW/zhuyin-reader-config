@@ -1,7 +1,7 @@
 {
   "payload": {
     "minimum_version": "1.7.0",
-    "latest_version": "2.4.0",
+    "latest_version": "2.5.0",
     "force_update": false,
     "app_store_url": "https://apps.apple.com/us/app/%E6%B3%A8%E9%9F%B3%E5%B0%8F%E8%AE%80%E8%80%85/id6768879404",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.kids.reader",
@@ -10,15 +10,15 @@
     "arena_enabled": true,
     "reader_translation_enabled": true,
     "android_review_access": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "2.5.0",
       "version_code": "2050001",
-      "state": "in_review",
+      "state": "released",
       "expires_at": "2026-08-18T23:59:59+08:00"
     },
     "enabled_challenge_rooms": [
       "all"
     ]
   },
-  "signature": "vIp5i0e3ZOOcYQM3GTGW4JsMZsCPBlA4Mqf1eUzUBhh2Bm55HSW4eklodustMARY8HE2C8g77ygcR3Z8N7bWAg=="
+  "signature": "yQh9QrF281hqMN5DTpyA6IKVkBuzXT08Xve03Lox1CCH/XWe+kmnFR9WFiw0/u/ONUBhQYh3siorZedgqHB0Dg=="
 }
