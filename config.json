@@ -10,15 +10,15 @@
     "arena_enabled": true,
     "reader_translation_enabled": true,
     "android_review_access": {
-      "enabled": false,
-      "version_name": "2.5.0",
-      "version_code": "2050001",
-      "state": "released",
-      "expires_at": "2026-08-18T23:59:59+08:00"
+      "enabled": true,
+      "version_name": "2.6.0",
+      "version_code": "2060002",
+      "state": "in_review",
+      "expires_at": "2026-08-24T23:59:59+08:00"
     },
     "enabled_challenge_rooms": [
       "all"
     ]
   },
-  "signature": "yQh9QrF281hqMN5DTpyA6IKVkBuzXT08Xve03Lox1CCH/XWe+kmnFR9WFiw0/u/ONUBhQYh3siorZedgqHB0Dg=="
+  "signature": "znYSf0P/XeVfExi5iXtcZSF4E4HvmOS6MRLg85w1pICC/tkyMTH7MGyqlCF9kY8KhVvami0XHHhkBuENvRpOCQ=="
 }
